@@ -42,7 +42,7 @@ th {
 }
 
 /* Estilos para los elementos multimedia */
-video, audio {
+iframe, audio {
     display: block;
     margin: 20px auto;
     max-width: 100%;
